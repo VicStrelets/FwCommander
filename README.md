@@ -1,2 +1,2 @@
 # FwCommander
-Парсер 
+Парсер firmware
